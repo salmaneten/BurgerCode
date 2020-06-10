@@ -1,0 +1,3 @@
+- data-toggle = "tab" : cad qu'on va se déplacer sur <li>.
+- la classe .active permet de s'ouvrer automatiquement pour chaque load.
+- .caption pour les élément ss l'image 
